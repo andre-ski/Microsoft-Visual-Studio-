@@ -1,0 +1,17 @@
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\bin\Debug\Circuits.exe
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\bin\Debug\Circuits.pdb
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\obj\Debug\ResolveAssemblyReference.cache
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\obj\Debug\Circuits.exe
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\obj\Debug\Circuits.pdb
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\obj\Debug\GenerateResource-ResGen.read.1.tlog
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\obj\Debug\GenerateResource-ResGen.write.1.tlog
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Documents\Circuits\Circuits\obj\Debug\Circuits.exe
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Documents\Circuits\Circuits\obj\Debug\Circuits.pdb
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Documents\Circuits\Circuits\bin\Debug\Circuits.exe
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Documents\Circuits\Circuits\bin\Debug\Circuits.pdb
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Documents\Circuits\Circuits\obj\Debug\Circuits.csprojResolveAssemblyReference.cache
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Documents\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Documents\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Documents\Circuits\Circuits\obj\Debug\Circuits.csproj.GenerateResource.Cache
