@@ -1,0 +1,21 @@
+Declare Variables
+Create filter
+IF Dialog box result is OK THEN
+  Open the file
+  WHILE not end of File
+	TRY
+     		Read each line
+      		Split string array into word variable
+      		Create Distinct list from word variables
+      		Update listbox
+     		IF user selects word in listbox THEN
+			Count number of times selected word occurs
+			Display result
+		ENDIF
+		IF user selects size of vocabulary THEN
+			Divide number of word count by the different amount of words in document
+		ENDIF
+        CATCH
+	Error message
+  	ENDWHILE
+ENDIF

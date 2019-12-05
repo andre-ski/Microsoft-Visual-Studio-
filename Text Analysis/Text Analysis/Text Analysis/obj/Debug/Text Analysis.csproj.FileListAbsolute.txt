@@ -1,0 +1,18 @@
+G:\USB data\Week 11 103\Text Analysis\Text Analysis\bin\Debug\Text Analysis.exe.config
+G:\USB data\Week 11 103\Text Analysis\Text Analysis\bin\Debug\Text Analysis.exe
+G:\USB data\Week 11 103\Text Analysis\Text Analysis\bin\Debug\Text Analysis.pdb
+G:\USB data\Week 11 103\Text Analysis\Text Analysis\obj\Debug\Text Analysis.csprojResolveAssemblyReference.cache
+G:\USB data\Week 11 103\Text Analysis\Text Analysis\obj\Debug\Text_Analysis.Form1.resources
+G:\USB data\Week 11 103\Text Analysis\Text Analysis\obj\Debug\Text_Analysis.Properties.Resources.resources
+G:\USB data\Week 11 103\Text Analysis\Text Analysis\obj\Debug\Text Analysis.csproj.GenerateResource.Cache
+G:\USB data\Week 11 103\Text Analysis\Text Analysis\obj\Debug\Text Analysis.exe
+G:\USB data\Week 11 103\Text Analysis\Text Analysis\obj\Debug\Text Analysis.pdb
+D:\USB data\Week 11 103\Text Analysis\Text Analysis\bin\Debug\Text Analysis.exe.config
+D:\USB data\Week 11 103\Text Analysis\Text Analysis\obj\Debug\Text Analysis.exe
+D:\USB data\Week 11 103\Text Analysis\Text Analysis\obj\Debug\Text Analysis.pdb
+D:\USB data\Week 11 103\Text Analysis\Text Analysis\bin\Debug\Text Analysis.exe
+D:\USB data\Week 11 103\Text Analysis\Text Analysis\bin\Debug\Text Analysis.pdb
+D:\USB data\Week 11 103\Text Analysis\Text Analysis\obj\Debug\Text Analysis.csprojResolveAssemblyReference.cache
+D:\USB data\Week 11 103\Text Analysis\Text Analysis\obj\Debug\Text_Analysis.Form1.resources
+D:\USB data\Week 11 103\Text Analysis\Text Analysis\obj\Debug\Text_Analysis.Properties.Resources.resources
+D:\USB data\Week 11 103\Text Analysis\Text Analysis\obj\Debug\Text Analysis.csproj.GenerateResource.Cache
