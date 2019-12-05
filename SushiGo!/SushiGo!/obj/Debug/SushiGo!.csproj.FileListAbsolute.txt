@@ -1,0 +1,40 @@
+C:\Users\Andre\Desktop\SushiGo!\SushiGo!\bin\Debug\SushiGo!.exe.config
+C:\Users\Andre\Desktop\SushiGo!\SushiGo!\bin\Debug\SushiGo!.exe
+C:\Users\Andre\Desktop\SushiGo!\SushiGo!\bin\Debug\SushiGo!.pdb
+C:\Users\Andre\Desktop\SushiGo!\SushiGo!\obj\Debug\SushiGo!.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Desktop\SushiGo!\SushiGo!\obj\Debug\SushiGo_.Form1.resources
+C:\Users\Andre\Desktop\SushiGo!\SushiGo!\obj\Debug\SushiGo_.Properties.Resources.resources
+C:\Users\Andre\Desktop\SushiGo!\SushiGo!\obj\Debug\SushiGo!.csproj.GenerateResource.Cache
+C:\Users\Andre\Desktop\SushiGo!\SushiGo!\obj\Debug\SushiGo!.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\SushiGo!\SushiGo!\obj\Debug\SushiGo!.exe
+C:\Users\Andre\Desktop\SushiGo!\SushiGo!\obj\Debug\SushiGo!.pdb
+F:\SushiGo!\SushiGo!\bin\Debug\SushiGo!.exe.config
+F:\SushiGo!\SushiGo!\bin\Debug\SushiGo!.exe
+F:\SushiGo!\SushiGo!\bin\Debug\SushiGo!.pdb
+F:\SushiGo!\SushiGo!\obj\Debug\SushiGo!.csprojResolveAssemblyReference.cache
+F:\SushiGo!\SushiGo!\obj\Debug\SushiGo_.Form1.resources
+F:\SushiGo!\SushiGo!\obj\Debug\SushiGo_.Properties.Resources.resources
+F:\SushiGo!\SushiGo!\obj\Debug\SushiGo!.csproj.GenerateResource.Cache
+F:\SushiGo!\SushiGo!\obj\Debug\SushiGo!.exe
+F:\SushiGo!\SushiGo!\obj\Debug\SushiGo!.pdb
+C:\Users\Polly The PC\Desktop\SushiGo!\SushiGo!\obj\Debug\SushiGo!.csprojResolveAssemblyReference.cache
+C:\Users\Polly The PC\Desktop\SushiGo!\SushiGo!\obj\Debug\SushiGo_.Form1.resources
+C:\Users\Polly The PC\Desktop\SushiGo!\SushiGo!\obj\Debug\SushiGo_.Properties.Resources.resources
+C:\Users\Polly The PC\Desktop\SushiGo!\SushiGo!\obj\Debug\SushiGo!.csproj.GenerateResource.Cache
+C:\Users\Polly The PC\Desktop\SushiGo!\SushiGo!\obj\Debug\SushiGo!.exe
+C:\Users\Polly The PC\Desktop\SushiGo!\SushiGo!\obj\Debug\SushiGo!.pdb
+C:\Users\Polly The PC\Desktop\SushiGo!\SushiGo!\bin\Debug\SushiGo!.exe.config
+C:\Users\Polly The PC\Desktop\SushiGo!\SushiGo!\bin\Debug\SushiGo!.exe
+C:\Users\Polly The PC\Desktop\SushiGo!\SushiGo!\bin\Debug\SushiGo!.pdb
+D:\SushiGo!\SushiGo!\obj\Debug\SushiGo!.csprojResolveAssemblyReference.cache
+D:\SushiGo!\SushiGo!\obj\Debug\SushiGo_.Form1.resources
+D:\SushiGo!\SushiGo!\obj\Debug\SushiGo_.Properties.Resources.resources
+D:\SushiGo!\SushiGo!\obj\Debug\SushiGo!.csproj.GenerateResource.Cache
+D:\SushiGo!\SushiGo!\obj\Debug\SushiGo!.exe
+D:\SushiGo!\SushiGo!\obj\Debug\SushiGo!.pdb
+D:\SushiGo!\SushiGo!\bin\Debug\SushiGo!.exe.config
+D:\SushiGo!\SushiGo!\bin\Debug\SushiGo!.exe
+D:\SushiGo!\SushiGo!\bin\Debug\SushiGo!.pdb
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\SushiGo!\SushiGo!\bin\Debug\SushiGo!.exe.config
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\SushiGo!\SushiGo!\obj\Debug\SushiGo!.exe
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\SushiGo!\SushiGo!\obj\Debug\SushiGo!.pdb
